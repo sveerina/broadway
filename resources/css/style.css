@@ -1,9 +1,13 @@
 body{
   text-align: center;
 }
+#flatiron{
+  background: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
 h1{
+
   font-family: Helvetica;
   font-size: : 70px;
   font-weight: bold;
-  color: white;
+  color: black;
 }
