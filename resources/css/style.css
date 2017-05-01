@@ -2,6 +2,7 @@ body{
   text-align: center;
   font-family: Helvetica;
   font-weight: normal;
+  font-size: 14px;
 }
 #flatiron{
   background: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
@@ -13,7 +14,7 @@ h1{
   color: white;
 }
 .menu{
-  font-size: 18px
+  font-size: 18px;
   color: white;
 }
 #process{
@@ -21,9 +22,22 @@ h1{
   font-weight: bold;
 }
 h3{
-  font-size: 23px
+  font-size: 23px;
   font-weight: bold;
 }
-#tagline{
+h4{
   font-size: 14px;
+}
+h2.designed_image{
+  font-size: 23px;
+  font-weight: bold;
+  color:white;
+  background: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+}
+.copyright{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
